@@ -1,7 +1,5 @@
 # 🚀 End-to-End DevOps Pipeline with Docker & Monitoring
 
-### GitHub → Jenkins → Docker → Kubernetes → Prometheus → Grafana
-
 Automated CI/CD pipeline with containerized deployment and real-time monitoring on AWS EC2.
 
 ---
@@ -88,11 +86,11 @@ devops-project/
 ├── k8s-service.yaml
 ├── README.md
 │
-└── screenshots/
+└── image/
 ```
 
 ---
 
 ## 🎯 Key Learning
 
-Built a complete DevOps workflow covering CI/CD automation, containerization, Kubernetes deployment, monitoring, and cloud-based application management.
+This project demonstrates a complete DevOps workflow covering automation, deployment, monitoring, and observability.
