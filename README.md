@@ -7,7 +7,9 @@ Automated CI/CD pipeline with containerized deployment and real-time monitoring 
 ---
 
 ## 🏗️ Architecture
-
+<p align="left">
+  <img src="image/1.png"/>
+</p>
 
 ---
 
@@ -51,19 +53,26 @@ GitHub → Jenkins → Docker Build → Kubernetes Deployment → Prometheus →
 
 ### Jenkins Pipeline
 
-![Jenkins](screenshots/jenkins-pipeline.png)
+<p align="left">
+  <img src="image/2.png"/>
+</p>
 
 ### Application Running
 
-![Application](screenshots/application-running.png)
-
+<p align="left">
+  <img src="image/3.png"/>
+</p>
 ### Prometheus Monitoring
 
-![Prometheus](screenshots/prometheus.png)
+<p align="left">
+  <img src="image/4.png"/>
+</p>
 
 ### Grafana Dashboard
 
-![Grafana](screenshots/grafana-dashboard.png)
+<p align="left">
+  <img src="image/5.png"/>
+</p>
 
 ---
 
